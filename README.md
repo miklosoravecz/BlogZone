@@ -16,8 +16,8 @@ This is a MERN-stack social media app, a reference work
 >- EMAIL_TO=noreply@mernauth.com 
 >- EMAIL_FROM=your registered email to sendgrid
 >- JWT_RESET_PASSWORD=YOUR AOTHER SECRET KEY
-- In server folder run in command line *npm install* and after *nodemon server.js*
-- In client folder type to command line: *npm install* and after *npm start*
+- In server folder run in command line **npm install** and after **nodemon server.js**
+- In client folder type to command line: **npm install** and after **npm start**
 
 ##Until this point the project contains:
 - User CRUD (create, login, edit and delete users)
