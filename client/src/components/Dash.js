@@ -18,7 +18,7 @@ const Dash = () => {
       </div>
       <img
         className="image"
-        src="https://cdn.pixabay.com/photo/2016/03/09/09/43/person-1245959_1280.jpg"
+        src="https://cdn.pixabay.com/photo/2017/03/05/14/05/lake-2118687_960_720.jpg"
         alt="Mount"
       ></img>
     </div>
