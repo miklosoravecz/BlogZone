@@ -4,7 +4,6 @@ This is a MERN-stack social media app, a reference work
 ## To run the app:
 - Copy the repo.
 - In client root folder create a .env file and write init: *REACT_APP_API=http://localhost:8000/api*.
-- If you want to use email confirmation then register to https://sendgrid.com/
 - In backend folder create a .env file and add the following lines:
 > - NODE_ENV=development
 >- PORT=8000
