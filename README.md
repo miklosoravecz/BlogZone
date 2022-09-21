@@ -16,10 +16,9 @@ This is a MERN-stack social media app, a reference work
 
 ##Until this point the project contains:
 - User CRUD (create, login, edit and delete users)
-- Email confirmation/ activation (SendGrid)
 - Upload profile pictures
 - Users can check other users profile
-- Bootstrap
+- Css, Bootstrap styles, navigation
 
 ##What next:
 - Working on the posts server side APIs
